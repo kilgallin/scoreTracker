@@ -1,0 +1,6 @@
+[/]
+tools.staticdir.root = "C:/Python27/apps/secretsanta"
+
+[/jqplot]
+tools.staticdir.on = True
+tools.staticdir.dir = "jqplot"
